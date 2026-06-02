@@ -6,7 +6,7 @@ A full-stack web developer
 
 "I am a passionate beginner in the field of full-stack web development, driven by a love for coding and a curiosity about creating interactive and dynamic online experiences. I am excited about the endless possibilities that coding offers and am committed to evolving as a developer. Looking forward to the exciting journey ahead!"
 
-* 🌍  I'm based in Sweden
+* 🌍  I'm based in Jordan/Amman
 * ✉️  You can contact me at [areej\_sammour@hotmail.com](mailto:areej_sammour@hotmail.com)
 * 🚀  I'm currently working on [ASP.net core MVC project](http://github.com/AreejSammour/AS-Web-Essentials)
 * 🧠  I'm learning how to apply my knowledge on real projects, master the basics and building a portfolio of projects that showcase my expanding skill set.
