@@ -8,7 +8,7 @@ A full-stack web developer
 
 * 🌍  I'm based in Jordan/Amman
 * ✉️  You can contact me at [areej\_sammour@hotmail.com](mailto:areej_sammour@hotmail.com)
-* 🚀  I'm currently working on [ASP.net core MVC project](http://github.com/AreejSammour/AS-Web-Essentials)
+* 🚀  I'm currently working on [Node.js / Next.js project]
 * 🧠  I'm learning how to apply my knowledge on real projects, master the basics and building a portfolio of projects that showcase my expanding skill set.
 * 🤝  I'm open to collaborating on any field that increases my ability as a web developer
 
